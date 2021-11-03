@@ -17,7 +17,9 @@ public class ExplicitWaitDemo {
 		WebDriverWait wait = new WebDriverWait(driver, 30);
 		
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("email")));
-
+		
+		System.out.println("Git hub ");
+		System.out.println("Git hub 1");
 	}
 
 }

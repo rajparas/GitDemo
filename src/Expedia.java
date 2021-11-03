@@ -89,6 +89,12 @@ public class Expedia {
 		
 		System.out.println("Operation Completed...");
 		
+		System.out.println("Git Demo 1");
+		System.out.println("Git Demo 2");
+		System.out.println("Git Demo 3");
+		
+		
+		
 
 	}
 

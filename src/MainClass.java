@@ -51,6 +51,9 @@ public class MainClass {
 		
 		pass.sendKeys("Test1234");
 		
+		System.out.println("Changes by American development team 1");
+		System.out.println("Changes by American development team 2");
+		
 		
 	}
 
